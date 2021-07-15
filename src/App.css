@@ -324,10 +324,16 @@ header{
 }
 
 .cnt-btn{
+  padding: 10px;
+  border: 1px solid var(--accent);
+  border-radius: 5px;
   text-transform: uppercase;
 }
 
-.cnt-btn:hover,
+.cnt-btn:hover{
+  background-color: var(--accent);
+  color: var(--bg-dark_primary);
+}
 .merit:hover{
   border-bottom: 2px solid var(--accent);
 }
@@ -361,6 +367,7 @@ header{
 
 .far-skills {
   color: var(--accent);
+  margin-right: 5px;
 }
 
 .skills h3 {
