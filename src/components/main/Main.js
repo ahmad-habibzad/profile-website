@@ -1,21 +1,27 @@
-import React from 'react'
-import Home from './Home'
-import Skills from './Skills'
-import Projects from './Projects'
-import Contact from './Contact'
+import React from "react";
+import Home from "./Home";
+import About from "./About";
+import Skills from "./Skills";
+import Projects from "./Projects";
+import Testimonials from "./Testimonials";
+import Contact from "./Contact";
 
 function Main() {
-    return (
-        <React.Fragment>
-            <Home />
-            <hr />
-            <Skills />
-            <hr />
-            <Projects />
-            <hr />
-            <Contact />
-        </React.Fragment>
-    )
+  return (
+    <React.Fragment>
+      <Home />
+      <hr />
+      <About />
+      <hr />
+      <Skills />
+      <hr />
+      <Projects />
+      <hr />
+      <Testimonials />
+      <hr />
+      <Contact />
+    </React.Fragment>
+  );
 }
 
-export default Main
+export default Main;
