@@ -1,32 +1,52 @@
-import React from 'react'
+import React from "react";
 
 function SocialIcons() {
-    return (
-        <div className="social-Icons">
-            <ul className="social-media-list list flex">
-                <li className="social-media-list-item">
-                    <a className="social-link link" href="https://twitter.com/Masoud_Habibzad" rel="noreferrer" target="_blank">
-                        <i className="fab fa-twitter"></i>
-                    </a>
-                </li>
-                <li className="social-media-list-item">
-                    <a className="social-link link" href="https://codepen.io/amhabibzad/" rel="noreferrer" target="_blank">
-                        <i className="fab fa-codepen"></i>
-                    </a>
-                </li>
-                <li className="social-media-list-item">
-                    <a className="social-link link" href="https://github.com/Habibzad/" rel="noreferrer" target="_blank">
-                        <i className="fab fa-github"></i>
-                    </a>
-                </li>
-                <li className="social-media-list-item">
-                    <a className="social-link link" href="https://www.linkedin.com/in/ahmad-habibzad/" rel="noreferrer" target="_blank">
-                        <i class="fab fa-linkedin"></i>
-                    </a>
-                </li>
-            </ul>
-        </div>
-    )
+  return (
+    <div className="social-Icons">
+      <ul className="social-media-list list flex">
+        <li className="social-media-list-item">
+          <a
+            className="social-link link"
+            href="https://twitter.com/Masoud_Habibzad"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <i className="fab fa-twitter"></i>
+          </a>
+        </li>
+        <li className="social-media-list-item">
+          <a
+            className="social-link link"
+            href="https://codepen.io/amhabibzad/"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <i className="fab fa-codepen"></i>
+          </a>
+        </li>
+        <li className="social-media-list-item">
+          <a
+            className="social-link link"
+            href="https://github.com/Habibzad/"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <i className="fab fa-github"></i>
+          </a>
+        </li>
+        <li className="social-media-list-item">
+          <a
+            className="social-link link"
+            href="https://www.linkedin.com/in/ahmad-habibzad/"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <i className="fab fa-linkedin"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  );
 }
 
-export default SocialIcons
+export default SocialIcons;

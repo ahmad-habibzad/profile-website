@@ -8,14 +8,14 @@ function Testimonials() {
         <div className="tst1">
           <div className="testimonials-container">
             <p className="test-para">
-              <i class="fas fa-quote-left q1"></i>
+              <i className="fas fa-quote-left q1"></i>
               Ahmad is one of those thoughtful, intuitive developers who takes
               time to study the "what" and the "why" in addition to the "how".
               His knowledge of Java and OOP is impressive as well as his ability
               to problem solve, but what really stands out to me is his capacity
               to imagine what his users want and need and this is evident in all
               of the frontend UIs in his projects.
-              <i class="fas fa-quote-right q1"></i>
+              <i className="fas fa-quote-right q1"></i>
             </p>
           </div>
           <div className="img-container">
@@ -27,7 +27,7 @@ function Testimonials() {
                 rel="noreferrer"
                 target="_blank"
               >
-                <i class="fas fa-external-link-alt lnk1"></i>
+                <i className="fas fa-external-link-alt lnk1"></i>
               </a>
             </h4>
             <h4>
@@ -39,7 +39,7 @@ function Testimonials() {
         <div className="tst2">
           <div className="testimonials-container">
             <p className="test-para">
-              <i class="fas fa-quote-left q1"></i>
+              <i className="fas fa-quote-left q1"></i>
               Ahmad was one of the top students in the Java Development Bootcamp
               at Merit America. During the program, he demonstrated excellent
               ability to learn and understand new concepts, work in different
@@ -49,7 +49,7 @@ function Testimonials() {
               and required good understanding of software technologies
               (Java/Spring, ReactJS) as well as understanding about how the Bank
               Application works. It was a pleasure working with him.
-              <i class="fas fa-quote-right q1"></i>
+              <i className="fas fa-quote-right q1"></i>
             </p>
           </div>
           <div className="img-container">
@@ -65,7 +65,7 @@ function Testimonials() {
                 rel="noreferrer"
                 target="_blank"
               >
-                <i class="fas fa-external-link-alt lnk1"></i>
+                <i className="fas fa-external-link-alt lnk1"></i>
               </a>
             </h4>
             <h4>

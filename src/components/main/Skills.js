@@ -17,8 +17,6 @@ function Skills() {
               well-formatted code that is easy to read, trouble-shoot and
               maintain.
             </p>
-            {/* <p>I write clean, well formatted, semantic HTML5 making sure it is easy to read, trouble-shoot and
-                            maintain.</p> */}
           </div>
           <div className="skill">
             <i className="fab fa-react fa-skills"></i>
@@ -27,8 +25,6 @@ function Skills() {
               I build user interfaces using ReactJS. Additionally, I use CSS
               current best practices to build responsive websites.
             </p>
-            {/* <p>Using CSS current best practices such as media queries and flex box, my focus is to build pixel perfect
-                            and responsive websites.</p> */}
           </div>
           <div className="skill">
             <i className="fas fa-database fa-skills"></i>
@@ -37,8 +33,6 @@ function Skills() {
               Together with Spring Data JPA, I use MySQL to build databases for
               my web applications.
             </p>
-            {/* <p>In addition to using Javascript to make my website dynamic, I use JavaScript for creating small scale
-                            web applications.</p> */}
           </div>
         </div>
         <div className="tools">
@@ -49,25 +43,25 @@ function Skills() {
           </p>
           <div className=" tools-container">
             <div className="skills-flex-container">
-              <i class="fas fa-caret-right far-skills"></i>
+              <i className="fas fa-caret-right far-skills"></i>
               <p>HTML5</p>
               <br />
-              <i class="fas fa-caret-right far-skills"></i>
+              <i className="fas fa-caret-right far-skills"></i>
               <p>CSS3</p> <br />
-              <i class="fas fa-caret-right far-skills"></i>
+              <i className="fas fa-caret-right far-skills"></i>
               <p>JavaScript</p>
               <br />
-              <i class="fas fa-caret-right far-skills"></i>
+              <i className="fas fa-caret-right far-skills"></i>
               <p>Bootstrap</p>
             </div>
             <div className="skills-flex-container">
-              <i class="fas fa-caret-right far-skills"></i>
+              <i className="fas fa-caret-right far-skills"></i>
               <p>Git</p>
               <br />
-              <i class="fas fa-caret-right far-skills"></i>
+              <i className="fas fa-caret-right far-skills"></i>
               <p>GitHub</p>
               <br />
-              <i class="fas fa-caret-right far-skills"></i>
+              <i className="fas fa-caret-right far-skills"></i>
               <p>Terminal</p>
             </div>
           </div>
