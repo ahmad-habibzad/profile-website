@@ -8,8 +8,7 @@ function About() {
           <h2 className="section-title">About Me</h2>
           <p className="about-para">
             I’m a web developer based in Maryland, United States. I recently
-            completed a full stack Java development bootcamp and I am currently
-            pursuing my master’s in Software Engineering.
+            completed a full stack Java development bootcamp.
           </p>
           <p className="about-para">
             I am passionate about Web Development and I enjoy learning new
