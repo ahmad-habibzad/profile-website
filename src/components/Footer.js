@@ -1,6 +1,8 @@
 import React from 'react'
 
 function Footer() {
+    const date = new Date();
+    const today = date.getFullYear();
     return (
         <footer className="footer">
             <div className="social-media">
@@ -32,7 +34,7 @@ function Footer() {
                     </li>
                 </ul>
             </div>
-            <p className="copy">2021 Habibzad</p>
+            <p className="copy">{today} Habibzad</p>
         </footer>
     )
 }
