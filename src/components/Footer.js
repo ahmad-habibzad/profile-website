@@ -13,25 +13,25 @@ function Footer() {
                         </a>
                     </li>
                     <li className="social-media-list-item">
-                        <a className="social-link" href="https://twitter.com/Masoud_Habibzad" rel="noreferrer" target="_blank">
+                        <a className="social-link" href="https://twitter.com/MasKbl66" rel="noreferrer" target="_blank">
                             <i className="fab fa-twitter"></i>
                         </a>
                     </li>
-                    <li className="social-media-list-item">
+                    {/* <li className="social-media-list-item">
                         <a className="social-link" href="https://codepen.io/amhabibzad/" rel="noreferrer" target="_blank">
                             <i className="fab fa-codepen"></i>
                         </a>
-                    </li>
+                    </li> */}
                     <li className="social-media-list-item">
                         <a className="social-link" href="https://www.linkedin.com/in/amhabibzad/" rel="noreferrer" target="_blank">
                             <i className="fab fa-linkedin"></i>
                         </a>
                     </li>
-                    <li className="social-media-list-item">
+                    {/* <li className="social-media-list-item">
                         <a className="social-link" href="https://github.com/Habibzad" rel="noreferrer" target="_blank">
                             <i className="fab fa-github-square"></i>
                         </a>
-                    </li>
+                    </li> */}
                 </ul>
             </div>
             <p className="copy">{today} Habibzad</p>
