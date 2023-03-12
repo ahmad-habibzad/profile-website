@@ -11,14 +11,14 @@ function Main() {
     <React.Fragment>
       <Home />
       <hr />
-      <About />
+      {/* <About />
       <hr />
       <Skills />
       <hr />
       <Projects />
       <hr />
       <Testimonials />
-      <hr />
+      <hr /> */}
       <Contact />
     </React.Fragment>
   );

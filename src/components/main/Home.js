@@ -12,7 +12,7 @@ function Home() {
           Fullstack Java Developer
         </h2>
         <p className="body-txt">
-          Hi, welcome to my porfolio website! I am a full stack Java developer.
+        Hi, my name is Ahmad. I am a Full Stack software developer. I currently work as a Technical Advisor for Merit America.
         </p>
         <a href="#contact" className="cnt-btn">
           Get In Touch

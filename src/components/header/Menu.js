@@ -39,7 +39,7 @@ function Menu() {
               Home
             </a>
           </li>
-          <li className="nav-item">
+          {/* <li className="nav-item">
             <a className="nav-link link" onClick={handleLink} href="#about">
               About
             </a>
@@ -62,7 +62,7 @@ function Menu() {
             >
               Testimonials
             </a>
-          </li>
+          </li> */}
           <li className="nav-item">
             <a
               className="nav-link link nav-link_last"
