@@ -17,13 +17,8 @@ function Footer() {
                             <i className="fab fa-twitter"></i>
                         </a>
                     </li>
-                    {/* <li className="social-media-list-item">
-                        <a className="social-link" href="https://codepen.io/amhabibzad/" rel="noreferrer" target="_blank">
-                            <i className="fab fa-codepen"></i>
-                        </a>
-                    </li> */}
                     <li className="social-media-list-item">
-                        <a className="social-link" href="https://www.linkedin.com/in/amhabibzad/" rel="noreferrer" target="_blank">
+                        <a className="social-link" href="https://www.linkedin.com/in/ahmad-habibzad/" rel="noreferrer" target="_blank">
                             <i className="fab fa-linkedin"></i>
                         </a>
                     </li>
