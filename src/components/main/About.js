@@ -7,7 +7,7 @@ function About() {
         <div>
           <h2 className="section-title">About Me</h2>
           <p className="about-para">
-            I’m a web developer based in Maryland, United States. I recently
+            I’m a web developer based in Virginia, United States. I recently
             completed a full stack Java development bootcamp.
           </p>
           <p className="about-para">
