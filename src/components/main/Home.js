@@ -17,6 +17,7 @@ function Home() {
                 <p className="second-para">If you're working on anything related to testing, test automation, or quality assurance, I'd love to
                     join forces. Feel free to reach out—I'm excited about the opportunity to collaborate and contribute to meaningful
                     projects.</p>
+                <br/>
                 <a href="#contact" className="cnt-btn">
                     Get In Touch
                 </a>
