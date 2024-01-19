@@ -215,7 +215,7 @@ header {
   -webkit-box-direction: normal;
   -webkit-box-pack: center;
   -webkit-box-align: center;
-  height: 88vh;
+  /*height: 80vh;*/
 }
 
 .avatar {
