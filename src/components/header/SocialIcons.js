@@ -14,10 +14,10 @@ function SocialIcons() {
             <i className="fab fa-twitter"></i>
           </a>
         </li>
-        {/* <li className="social-media-list-item">
+       <li className="social-media-list-item">
           <a
             className="social-link link"
-            href="https://codepen.io/amhabibzad/"
+            href="https://codepen.io/ahmadm88"
             rel="noreferrer"
             target="_blank"
           >
@@ -27,13 +27,13 @@ function SocialIcons() {
         <li className="social-media-list-item">
           <a
             className="social-link link"
-            href="https://github.com/Habibzad/"
+            href="https://github.com/ahmad-techie/"
             rel="noreferrer"
             target="_blank"
           >
             <i className="fab fa-github"></i>
           </a>
-        </li> */}
+        </li>
         <li className="social-media-list-item">
           <a
             className="social-link link"

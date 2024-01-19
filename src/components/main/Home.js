@@ -15,8 +15,7 @@ function Home() {
                     Technical Advisor for Merit America
                 </p>
                 <p className="second-para">If you're working on anything related to testing, test automation, or quality assurance, I'd love to
-                    join forces. Let's bring our collective skills together to create robust and high-quality solutions.
-                    Feel free to reach out—I'm excited about the opportunity to collaborate and contribute to meaningful
+                    join forces. Feel free to reach out—I'm excited about the opportunity to collaborate and contribute to meaningful
                     projects.</p>
                 <a href="#contact" className="cnt-btn">
                     Get In Touch
