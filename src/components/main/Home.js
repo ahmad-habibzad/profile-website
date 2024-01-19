@@ -9,7 +9,7 @@ function Home() {
       <div className="content">
         <h1 className="main-title">Ahmad Habibzad</h1>
         <h2 className="main-title main-title-secondary">
-          Fullstack Java Developer
+          Java Developer
         </h2>
         <p className="body-txt">
         Hi, my name is Ahmad. I am a Java developer. I currently work as a Technical Advisor for Merit America
