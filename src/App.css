@@ -319,6 +319,7 @@ header {
   border: 1px solid var(--accent);
   border-radius: 5px;
   font-size: 14px;
+  margin-top: 1em;
 }
 
 .cnt-btn:hover {
