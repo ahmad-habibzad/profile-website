@@ -8,13 +8,13 @@ function Home() {
             <div className="content">
                 <h1 className="main-title">Ahmad Habibzad</h1>
                 <h2 className="main-title main-title-secondary">
-                    Java Developer - QA Automation Engineer
+                    Java Developer
                 </h2>
                 <p className="body-txt">
-                    Hi, my name is Ahmad. I am a Java developer and QA Automation Engineer. I currently work as a
+                    Hi, my name is Ahmad. I am a Java developer. I currently work as a
                     Technical Advisor for Merit America
                 </p>
-                <p className="second-para">If you're working on anything related to testing, test automation, or quality assurance, I'd love to
+                <p className="second-para">I'm interested in Java development, Quality Assurance and QA Automation. If you're working on anything related to testing, test automation, or quality assurance, I'd love to
                     join forces. Feel free to reach out—I'm excited about the opportunity to collaborate and contribute to meaningful
                     projects.</p>
                 <br/>
