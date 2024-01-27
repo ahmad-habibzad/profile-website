@@ -14,8 +14,7 @@ function Home() {
                     Hi, my name is Ahmad. I am a Java developer. I currently work as a
                     Technical Advisor for Merit America
                 </p>
-                <p className="second-para">I'm interested in Java development, Quality Assurance and QA Automation. If you're working on anything related to testing, test automation, or quality assurance, I'd love to
-                    join forces. Feel free to reach out—I'm excited about the opportunity to collaborate and contribute to meaningful
+                <p className="second-para">I'm interested in Java development and testing. Feel free to reach out — I'm excited about the opportunity to collaborate and contribute to meaningful
                     projects.</p>
                 <br/>
                 <a href="#contact" className="cnt-btn">
