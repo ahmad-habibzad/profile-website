@@ -13,6 +13,26 @@ function Footer() {
                         </a>
                     </li>
                     <li className="social-media-list-item">
+                      <a
+                        className="social-link link"
+                        href="https://twitter.com/MasKbl66"
+                        rel="noreferrer"
+                        target="_blank"
+                      >
+                        <i className="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                   <li className="social-media-list-item">
+                      <a
+                        className="social-link link"
+                        href="https://codepen.io/ahmadm88"
+                        rel="noreferrer"
+                        target="_blank"
+                      >
+                        <i className="fab fa-codepen"></i>
+                      </a>
+                    </li>
+                    <li className="social-media-list-item">
                         <a className="social-link" href="https://twitter.com/MasKbl66" rel="noreferrer" target="_blank">
                             <i className="fab fa-twitter"></i>
                         </a>
