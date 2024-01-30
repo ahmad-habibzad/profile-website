@@ -4,16 +4,7 @@ function SocialIcons() {
   return (
     <div className="social-Icons">
       <ul className="social-media-list list flex">
-        <li className="social-media-list-item">
-          <a
-            className="social-link link"
-            href="https://twitter.com/MasKbl66"
-            rel="noreferrer"
-            target="_blank"
-          >
-            <i className="fab fa-twitter"></i>
-          </a>
-        </li>
+        
        <li className="social-media-list-item">
           <a
             className="social-link link"
