@@ -12,7 +12,7 @@ function Home() {
                 </h2>
                 <p className="body-txt">
                     Hi, my name is Ahmad. I am a Java developer, QA Automation Engineer and Technology Enthusiast. I currently work as a
-                    Technical Advisor for <a style={{color:"#64ffda"}} href="https://meritamerica.org/team/ahmad-habibzad/">Merit America</a>
+                    Technical Advisor for <a style={{color:"#64ffda"}} href="https://meritamerica.org/team/ahmad-habibzad/" target="_blank">Merit America</a>
                 </p>
                 <p>Feel free to reach out—I'm excited about the opportunity to collaborate and contribute to meaningful
                     projects. </p><br/>
