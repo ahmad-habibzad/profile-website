@@ -18,7 +18,7 @@ function SocialIcons() {
         <li className="social-media-list-item">
           <a
             className="social-link link"
-            href="https://github.com/ahmad-habibzad/"
+            href="https://github.com/ahmad-techie/"
             rel="noreferrer"
             target="_blank"
           >
