@@ -24,10 +24,15 @@ function Footer() {
                       </a>
                     </li>
                     <li className="social-media-list-item">
-                        <a className="social-link" href="https://twitter.com/MasKbl66" rel="noreferrer" target="_blank">
-                            <i className="fab fa-twitter"></i>
-                        </a>
-                    </li>
+          <a
+            className="social-link link"
+            href="https://github.com/ahmad-techie/"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <i className="fab fa-github"></i>
+          </a>
+        </li>
                     <li className="social-media-list-item">
                         <a className="social-link" href="https://www.linkedin.com/in/ahmad-habibzad/" rel="noreferrer" target="_blank">
                             <i className="fab fa-linkedin"></i>
